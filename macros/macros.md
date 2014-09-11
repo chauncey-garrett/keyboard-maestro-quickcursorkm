@@ -70,6 +70,10 @@
 
 ![](/macros/QuickCursorKM _ Yank text in preparation for QuickCursorKM.png)
 
+### QuickCursorKM ? Determine bundle ID
+
+![](/macros/QuickCursorKM ? Determine bundle ID.png)
+
 ### S | Smultron
 
 ![](/macros/S | Smultron.png)
