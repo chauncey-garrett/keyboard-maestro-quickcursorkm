@@ -33,13 +33,15 @@ If you'd like to preview the macros, you can do so [here][8].
 
 As always, if you come across any bugs or have suggestions, feel free to [open an issue][9]. The latest release of QuickCursorKM can always be found [here][10].
 
+This macro set was originally released on [chauncey.io][11].
+
 [^macro-sets]: I make many of my macros sets in this manner and have found it useful in terms of managing those macros.
 
 [^recommendation]: I recommend using the same shortcut for all of them, as I have done. In doing so you will get a useful palette from Keyboard Maestro.
 
 [^default-editor]: The `EditAnywhere` macro will open the text in the system default editor for txt files.
 
-[^keyboard maestro]:  This [referral link][11] for Keyboard Maestro will save you 20%!
+[^keyboard maestro]:  This [referral link][12] for Keyboard Maestro will save you 20%!
 
 [^vim-list-edit]: From the beginning of the list, that's `ctrl-v`, `}`, `(`, `I`, ` - `, `⎋`
 
@@ -54,4 +56,5 @@ As always, if you come across any bugs or have suggestions, feel free to [open a
 [8]: macros/macros.md
 [9]: https://github.com/chauncey-garrett/km-quickcursorkm/issues
 [10]: https://github.com/chauncey-garrett/km-quickcursorkm/releases
-[11]: http://www.stairways.com/action/kmdiscount?REF4PDX
+[11]: http://chauncey.io/blog/2014/09/10/a-quickcursor-redux-via-keyboard-maestro
+[12]: http://www.stairways.com/action/kmdiscount?REF4PDX
