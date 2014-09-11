@@ -1,38 +1,38 @@
-### 	__README__
+###  __README__
 
-![](/macros/	__README__.png)
+![](/macros/ __README__.png)
 
-### 	|	QuickCursorKM
+###  | QuickCursorKM
 
-![](/macros/	|	QuickCursorKM.png)
+![](/macros/ | QuickCursorKM.png)
 
-### A	|	Applescript Editor
+### A | Applescript Editor
 
-![](/macros/A	|	Applescript Editor.png)
+![](/macros/A | Applescript Editor.png)
 
-### A	|	Atom
+### A | Atom
 
-![](/macros/A	|	Atom.png)
+![](/macros/A | Atom.png)
 
-### B	|	BBEdit
+### B | BBEdit
 
-![](/macros/B	|	BBEdit.png)
+![](/macros/B | BBEdit.png)
 
-### B	|	Byword
+### B | Byword
 
-![](/macros/B	|	Byword.png)
+![](/macros/B | Byword.png)
 
-### F	|	FoldingText
+### F | FoldingText
 
-![](/macros/F	|	FoldingText.png)
+![](/macros/F | FoldingText.png)
 
-### I	|	iA Writer
+### I | iA Writer
 
-![](/macros/I	|	iA Writer.png)
+![](/macros/I | iA Writer.png)
 
-### M	|	MultiMarkdown Composer
+### M | MultiMarkdown Composer
 
-![](/macros/M	|	MultiMarkdown Composer.png)
+![](/macros/M | MultiMarkdown Composer.png)
 
 ### QuickCursorKM _
 
@@ -70,35 +70,35 @@
 
 ![](/macros/QuickCursorKM _ Yank text in preparation for QuickCursorKM.png)
 
-### S	|	Smultron
+### S | Smultron
 
-![](/macros/S	|	Smultron.png)
+![](/macros/S | Smultron.png)
 
-### T	|	TaskPaper
+### T | TaskPaper
 
-![](/macros/T	|	TaskPaper.png)
+![](/macros/T | TaskPaper.png)
 
-### T	|	TextMate
+### T | TextMate
 
-![](/macros/T	|	TextMate.png)
+![](/macros/T | TextMate.png)
 
-### T	|	Texts
+### T | Texts
 
-![](/macros/T	|	Texts.png)
+![](/macros/T | Texts.png)
 
-### T	|	Textwrangler
+### T | Textwrangler
 
-![](/macros/T	|	Textwrangler.png)
+![](/macros/T | Textwrangler.png)
 
-### V	|	MacVim
+### V | MacVim
 
-![](/macros/V	|	MacVim.png)
+![](/macros/V | MacVim.png)
 
-### W	|	Writer Pro
+### W | Writer Pro
 
-![](/macros/W	|	Writer Pro.png)
+![](/macros/W | Writer Pro.png)
 
-### W	|	WriteRoom
+### W | WriteRoom
 
-![](/macros/W	|	WriteRoom.png)
+![](/macros/W | WriteRoom.png)
 
