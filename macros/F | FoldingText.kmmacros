@@ -351,7 +351,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string></string>
+						<string>com.foldingtext.FoldingText</string>
 						<key>Variable</key>
 						<string>QUICKCURSOR_KM_EDITOR_BUNDLE_ID</string>
 					</dict>
@@ -363,7 +363,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string>[/Applications/FoldingText.app</string>
+						<string>/Applications/FoldingText.app</string>
 						<key>Variable</key>
 						<string>QUICKCURSOR_KM_EDITOR_APPLICATION</string>
 					</dict>
@@ -389,7 +389,7 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>430164475.31866097</real>
+				<real>432136906.94249898</real>
 				<key>Name</key>
 				<string>F	|	FoldingText</string>
 				<key>Triggers</key>

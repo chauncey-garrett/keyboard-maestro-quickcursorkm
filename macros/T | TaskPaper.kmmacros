@@ -351,7 +351,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string></string>
+						<string>com.hogbaysoftware.TaskPaper.mac</string>
 						<key>Variable</key>
 						<string>QUICKCURSOR_KM_EDITOR_BUNDLE_ID</string>
 					</dict>
@@ -823,7 +823,7 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>430164567.962825</real>
+				<real>432136930.36328697</real>
 				<key>Name</key>
 				<string>T	|	TaskPaper</string>
 				<key>Triggers</key>

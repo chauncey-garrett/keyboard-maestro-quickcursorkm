@@ -351,7 +351,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string></string>
+						<string>com.apple.ScriptEditor2</string>
 						<key>Variable</key>
 						<string>QUICKCURSOR_KM_EDITOR_BUNDLE_ID</string>
 					</dict>
@@ -832,7 +832,7 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>430805671.28724998</real>
+				<real>432136849.95683599</real>
 				<key>Name</key>
 				<string>A	|	Applescript Editor</string>
 				<key>Triggers</key>

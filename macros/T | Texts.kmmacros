@@ -351,7 +351,7 @@
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
-						<string></string>
+						<string>io.texts.Texts</string>
 						<key>Variable</key>
 						<string>QUICKCURSOR_KM_EDITOR_BUNDLE_ID</string>
 					</dict>
@@ -389,7 +389,7 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>430164624.47541499</real>
+				<real>432136946.451509</real>
 				<key>Name</key>
 				<string>T	|	Texts</string>
 				<key>Triggers</key>
