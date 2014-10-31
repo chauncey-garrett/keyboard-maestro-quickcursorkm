@@ -41,7 +41,7 @@ This macro set was originally released on [chauncey.io][11].
 
   - [Chauncey Garrett][13]
 
-[![][14]](http://chauncey.io/about/index.html)
+[![][14]](http://chauncey.io/about/index.html#donate)
 
 [^macro-sets]: I make many of my macros sets in this manner and have found it useful in terms of managing those macros.
 
