@@ -39,7 +39,7 @@ This macro set was originally released on [chauncey.io](http://chauncey.io/blog/
 
   - [Chauncey Garrett](https://github.com/tjluoma/edit-anywhere)
 
-[![](/img/donate.png)](http://chauncey.io/about/index.html#donate)
+[![](/img/tip.gif)](http://chauncey.io/about/index.html#tip)
 
 [^macro-sets]: I make many of my macros sets in this manner and have found it useful in terms of managing those macros.
 
