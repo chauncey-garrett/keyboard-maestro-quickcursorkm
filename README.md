@@ -10,10 +10,12 @@ noindex: false
 permalink: /projects/quickcursor-for-keyboard-maestro/
 external-url:
 tags:
-  - TODO
+  - quickcursor
+  - quickcursor-km
+  - keyboard maestro
 category: project
-description: TODO
-keywords: TODO
+description: A redux of QuickCursor for Keyboard Maestro.
+keywords:
 sharing: true
 comments: false
 footer: true
