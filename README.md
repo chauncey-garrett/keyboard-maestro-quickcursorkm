@@ -21,8 +21,6 @@ comments: false
 footer: true
 ---
 
-* Table of Contents placeholder (via kramdown)
-{:toc}
 
 ## Inspiration and Rationale
 
