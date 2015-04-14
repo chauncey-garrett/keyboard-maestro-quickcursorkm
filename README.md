@@ -43,6 +43,29 @@ To use QuickCursorKM, place your cursor on some text: if you select specific tex
 
 If for some reason the macro fails, your work has been safely saved from the beginning in one of two locations: `~/.quickcursor_km.txt` or in the Trash can with the date appended to the filename. You should also receive an error message that can be useful in debugging.
 
+## Current text editors supported
+
+I primarily use my QuickCursor replacement with MacVim. Here is a list of all currently supported QuickCursorKM editors:
+
+<ul class="inline-list">
+  <li><a class="ignore-external-link-icon" href="https://atom.io">Atom</a></li>
+  <li><a class="ignore-external-link-icon" href="http://www.barebones.com/products/bbedit/">BBEdit</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/byword/id420212497?mt=12&amp;uo=4&amp;at=10lKXh">Byword</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/foldingtext/id540003654?mt=12&amp;uo=4&amp;at=10lKXh">FoldingText</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/ia-writer/id439623248?mt=12&amp;uo=4&amp;at=10lKXh">iA Writer</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/ia-writer-pro/id775737590?mt=12&amp;uo=4&amp;at=10lKXh">iA Writer Pro</a></li>
+  <li><a class="ignore-external-link-icon" href="https://github.com/macvim-dev/macvim">MacVim</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/multimarkdown-composer-2/id593294811?mt=12&amp;uo=4&amp;at=10lKXh">MultiMarkdown Composer</a></li>
+  <li><a class="ignore-external-link-icon" href="https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptX/Concepts/work_with_as.html#//apple_ref/doc/uid/TP40001568-1152365">Script Editor</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/smultron-7/id921128244?mt=12&amp;uo=4&amp;at=10lKXh">Smultron</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/taskpaper/id424281111?mt=12&amp;uo=4&amp;at=10lKXh">TaskPaper</a></li>
+  <li><a class="ignore-external-link-icon" href="https://macromates.com">TextMate</a></li>
+  <li><a class="ignore-external-link-icon" href="http://www.texts.io">Texts</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12&amp;uo=4&amp;at=10lKXh">TextWrangler</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/ulysses/id623795237?mt=12&amp;uo=4&amp;at=10lKXh">Ulysses</a></li>
+  <li><a class="ignore-external-link-icon" href="https://itunes.apple.com/us/app/writeroom/id417967324?mt=12&amp;uo=4&amp;at=10lKXh">WriteRoom</a></li>
+</ul>
+
 ## Adding New Text Editors
 
 If the text editor of your choice is not listed, it is easy to add it because of the modular nature of QuickCursorKM. To add your editor, simply duplicate any of the editor-specific macros and replace the path and the bundle-id variables with the analogous text for your app. If you do not know the bundle-id of your editor, you may leave the variable blank: QuickCursorKM should still be able to locate the app based on the path given. Alternatively, I've built a helper macro that can determine the bundle id for you. Once you've added your editor, be sure to [submit a pull request](https://github.com/chauncey-garrett/keyboard-maestro-quickcursorkm/pulls) so that others may use it as well!
