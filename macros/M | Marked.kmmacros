@@ -34,118 +34,87 @@
       <array>
         <dict>
           <key>UID</key>
-          <string>1AF259F9-F4AE-4188-9CFD-0AFE56E82111</string>
-          <key>ModificationDate</key>
-          <real>430163647.10094</real>
-          <key>Name</key>
-          <string>QuickCursorKM _ Determine text selection</string>
-          <key>Triggers</key>
-          <array/>
-          <key>IsActive</key>
-          <false/>
+          <string>188079E5-0621-4F95-97B3-6EB8F720A9D5</string>
           <key>Actions</key>
           <array>
             <dict>
+              <key>MacroUID</key>
+              <string>F19B8F0B-80EE-4026-AB29-060B5B387A93</string>
               <key>IsDisclosed</key>
               <true/>
               <key>MacroActionType</key>
-              <string>IfThenElse</string>
+              <string>ExecuteMacro</string>
               <key>TimeOutAbortsMacro</key>
               <true/>
-              <key>ElseActions</key>
-              <array>
-                <dict>
-                  <key>IsDisclosed</key>
-                  <true/>
-                  <key>Text</key>
-                  <string>So we DO want to do Select All</string>
-                  <key>Title</key>
-                  <string>If 'Cut' is NOT enabled, then the user does NOT have selected text</string>
-                  <key>IsActive</key>
-                  <true/>
-                  <key>MacroActionType</key>
-                  <string>Comment</string>
-                </dict>
-                <dict>
-                  <key>IsDisclosed</key>
-                  <true/>
-                  <key>Modifiers</key>
-                  <integer>256</integer>
-                  <key>KeyCode</key>
-                  <integer>0</integer>
-                  <key>ReleaseAll</key>
-                  <false/>
-                  <key>IsActive</key>
-                  <true/>
-                  <key>MacroActionType</key>
-                  <string>SimulateKeystroke</string>
-                </dict>
-              </array>
               <key>IsActive</key>
               <true/>
-              <key>Conditions</key>
-              <dict>
-                <key>ConditionListMatch</key>
-                <string>All</string>
-                <key>ConditionList</key>
-                <array>
-                  <dict>
-                    <key>MenuConditionSelectionType</key>
-                    <string>Is</string>
-                    <key>ConditionType</key>
-                    <string>Menu</string>
-                    <key>MenuConditionType</key>
-                    <string>IsEnabled</string>
-                    <key>MenuTitle</key>
-                    <string>Cut</string>
-                    <key>MenuShortcut</key>
-                    <string>C</string>
-                    <key>MenuModifiers</key>
-                    <integer>256</integer>
-                  </dict>
-                </array>
-              </dict>
-              <key>ThenActions</key>
-              <array>
-                <dict>
-                  <key>IsDisclosed</key>
-                  <true/>
-                  <key>Text</key>
-                  <string>So we do NOT want to do 'select all'</string>
-                  <key>Title</key>
-                  <string>If 'Cut' is enabled, then the user has selected text</string>
-                  <key>IsActive</key>
-                  <true/>
-                  <key>MacroActionType</key>
-                  <string>Comment</string>
-                </dict>
-              </array>
+              <key>Count</key>
+              <integer>1</integer>
+              <key>Asynchronously</key>
+              <false/>
             </dict>
             <dict>
               <key>IsDisclosed</key>
               <true/>
+              <key>Variable</key>
+              <string>QUICKCURSOR_KM_EDITOR_BUNDLE_ID</string>
               <key>Text</key>
-              <string>If we don't pause, sometimes the 'cut' will happen too quickly and not catch the text. Adjust as necessary.</string>
-              <key>Title</key>
-              <string>Why Pause?</string>
+              <string>com.brettterpstra.marked2</string>
               <key>IsActive</key>
               <true/>
               <key>MacroActionType</key>
-              <string>Comment</string>
+              <string>SetVariableToText</string>
             </dict>
             <dict>
-              <key>MacroActionType</key>
-              <string>Pause</string>
-              <key>TimeOutAbortsMacro</key>
-              <true/>
-              <key>Time</key>
-              <string>.5</string>
-              <key>IsActive</key>
-              <true/>
               <key>IsDisclosed</key>
               <true/>
+              <key>Variable</key>
+              <string>QUICKCURSOR_KM_EDITOR_APPLICATION</string>
+              <key>Text</key>
+              <string>/Applications/Marked 2.app</string>
+              <key>IsActive</key>
+              <true/>
+              <key>MacroActionType</key>
+              <string>SetVariableToText</string>
+            </dict>
+            <dict>
+              <key>MacroUID</key>
+              <string>ECA64CE3-8709-4C93-AE4D-01D5F28F3095</string>
+              <key>IsDisclosed</key>
+              <true/>
+              <key>MacroActionType</key>
+              <string>ExecuteMacro</string>
+              <key>TimeOutAbortsMacro</key>
+              <true/>
+              <key>IsActive</key>
+              <true/>
+              <key>Count</key>
+              <integer>1</integer>
+              <key>Asynchronously</key>
+              <false/>
             </dict>
           </array>
+          <key>ModificationDate</key>
+          <real>436669070.8963</real>
+          <key>Triggers</key>
+          <array>
+            <dict>
+              <key>MacroTriggerType</key>
+              <string>HotKey</string>
+              <key>Modifiers</key>
+              <integer>6912</integer>
+              <key>FireType</key>
+              <string>Pressed</string>
+              <key>KeyCode</key>
+              <integer>14</integer>
+            </dict>
+          </array>
+          <key>IsActive</key>
+          <true/>
+          <key>Name</key>
+          <string>M	|	Marked</string>
+          <key>CustomIconData</key>
+          <string>KMEP-GenericApplication-/Applications/Marked 2.app</string>
         </dict>
       </array>
     </dict>
