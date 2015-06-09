@@ -7,7 +7,7 @@ Inspiration for [QuickCursorKM](https://github.com/chauncey-garrett/keyboard-mae
 If you do a lot of writing, text is something that often flows easily. However, there are those moments when it just. Gets. Stuck. QuickCursorKM is there to undo that log-jam by redirecting your text-flow to a better editor. A good example: Say you've made a list of things but forgot to add a hyphen (-) for Markdown formatting. No worries! Activate QuickCursorKM, edit the text in MacVim[^vim-list-edit], and you're on your way.
 
 ## Creation and Extensibility
-This [Keyboard Maestro](http://http://www.keyboardmaestro.com)[^keyboard maestro] macro set is broken up into two kinds of macros: builder macros with specific, iterative actions (indicated by an underscore and disabled by default) and editor macros that set or determine the editor you wish to use. I utilize the builder macros to piece-together the final editor macro that will be used by the end user (you). Built this way, the macro-program is easily extensible and updated.[^macro-sets]
+This [Keyboard Maestro](http://www.stairways.com/action/kmdiscount?REF4PDX)[^keyboard-maestro] macro set is broken up into two kinds of macros: builder macros with specific, iterative actions (indicated by an underscore and disabled by default) and editor macros that set or determine the editor you wish to use. I utilize the builder macros to piece-together the final editor macro that will be used by the end user (you). Built this way, the macro-program is easily extensible and updated.[^macro-sets]
 
 You, however, need do nothing but choose a shortcut for the editor macros you wish to use.[^recommendation] You may also wish to disable any of the editor-specific macros that you don't have installed or don't use. Alternatively, you can just use the QuickCursorKM macro itself and it will open the text in the system default editor for txt files.
 
@@ -43,7 +43,7 @@ This macro set was originally released on [chauncey.io](http://chauncey.io/blog/
 
   - [Chauncey Garrett](https://github.com/tjluoma/edit-anywhere)
 
-[![](/img/tip.gif)](http://chauncey.io/about/index.html#tip)
+  [![](/img/tip.gif)](http://chauncey.io/reader-support/)
 
 [^macro-sets]: I make many of my macros sets in this manner and have found it useful in terms of managing those macros.
 
@@ -51,6 +51,6 @@ This macro set was originally released on [chauncey.io](http://chauncey.io/blog/
 
 [^default-editor]: The `EditAnywhere` macro will open the text in the system default editor for txt files.
 
-[^keyboard maestro]:  This [referral link](http://www.stairways.com/action/kmdiscount?REF4PDX) for Keyboard Maestro will save you 20%!
+[^keyboard-maestro]:  This [referral link](http://www.stairways.com/action/kmdiscount?REF4PDX) for Keyboard Maestro will save you 20%!
 
 [^vim-list-edit]: From the beginning of the list, that's `ctrl-v`, `}`, `(`, `I`, ` - `, `⎋`
