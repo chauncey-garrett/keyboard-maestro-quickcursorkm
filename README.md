@@ -25,6 +25,10 @@ If for some reason the macro fails, your work has been safely saved from the beg
 
 If the text editor of your choice is not listed, it is easy to add it because of the modular nature of QuickCursorKM. To add your editor, simply duplicate any of the editor-specific macros and replace the path and the bundle-id variables with the analogous text for your app. If you do not know the bundle-id of your editor, you may leave the variable blank: QuickCursorKM should still be able to locate the app based on the path given. Alternatively, I've built a helper macro that can determine the bundle id for you. Once you've added your editor, be sure to [submit a pull request](https://github.com/chauncey-garrett/keyboard-maestro-quickcursorkm/pulls) so that others may use it as well!
 
+## Installation
+
+All that's required for installation is to download `quickcursor-km.kmmacros` on the [releases](https://github.com/chauncey-garrett/keyboard-maestro-quickcursorkm/releases) page. Then open the file by double-clicking it.
+
 ## Final Words
 
 If you'd like to preview the macros, you can do so [here](macros/macros.md).
